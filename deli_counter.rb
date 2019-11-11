@@ -1,4 +1,8 @@
+#describe katz_deli as an empty array 
+
 katz_deli = [] 
+
+#describe take_a_number 
 
 def take_a_number(array, name)
   array.push(name)
