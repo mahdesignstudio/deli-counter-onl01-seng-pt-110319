@@ -1,5 +1,8 @@
-katz_deli = ["Moshe", "Fayge", "Rivki"]
+#define the customers in katz_deli
 
+katz_deli = ["Elsa", "Rob", "Alexandra"]
+
+#line: there is nobody in life "should say the line is empty" 
 
 def line(array) # this was the one I figured out
   if array.length >= 1
