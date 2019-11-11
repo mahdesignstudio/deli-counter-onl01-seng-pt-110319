@@ -1,4 +1,5 @@
 def line 
   katz deli = []
-puts ""
+  puts "there is nobody in line"
+end 
   
